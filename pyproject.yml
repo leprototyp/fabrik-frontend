@@ -1,0 +1,9 @@
+[project]
+name = "fabrik-frontend"
+version = "0.1.0"
+description = "Desktop frontend for the Factory Demo REST API"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32",
+]
